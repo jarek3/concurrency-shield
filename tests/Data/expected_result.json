@@ -1,0 +1,458 @@
+[
+    {
+        "id": 1,
+        "email": "jdvorak@example.com",
+        "firstName": "Jan",
+        "lastName": "Dvo\u0159\u00e1k",
+        "permissionGroups": [
+            {
+                "code": "group1",
+                "name": "Group 1",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission3",
+                        "name": "Permission 3"
+                    }
+                ]
+            },
+            {
+                "code": "group2",
+                "name": "Group 2",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission3",
+                        "name": "Permission 3"
+                    }
+                ]
+            },
+            {
+                "code": "group3",
+                "name": "Group 3",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission3",
+                        "name": "Permission 3"
+                    }
+                ]
+            },
+            {
+                "code": "group5",
+                "name": "Group 5",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission5",
+                        "name": "Permission 5"
+                    }
+                ]
+            },
+            {
+                "code": "group7",
+                "name": "Group 7",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission7",
+                        "name": "Permission 7"
+                    }
+                ]
+            },
+            {
+                "code": "group8",
+                "name": "Group 8",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission8",
+                        "name": "Permission 8"
+                    }
+                ]
+            },
+            {
+                "code": "group9",
+                "name": "Group 9",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission9",
+                        "name": "Permission 9"
+                    }
+                ]
+            },
+            {
+                "code": "group10",
+                "name": "Group 10",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission10",
+                        "name": "Permission 10"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "email": "mnovak@example.com",
+        "firstName": "Milan",
+        "lastName": "Nov\u00e1k",
+        "permissionGroups": [
+            {
+                "code": "group1",
+                "name": "Group 1",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission3",
+                        "name": "Permission 3"
+                    }
+                ]
+            },
+            {
+                "code": "group2",
+                "name": "Group 2",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission3",
+                        "name": "Permission 3"
+                    }
+                ]
+            },
+            {
+                "code": "group3",
+                "name": "Group 3",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission3",
+                        "name": "Permission 3"
+                    }
+                ]
+            },
+            {
+                "code": "group5",
+                "name": "Group 5",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission5",
+                        "name": "Permission 5"
+                    }
+                ]
+            },
+            {
+                "code": "group7",
+                "name": "Group 7",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission7",
+                        "name": "Permission 7"
+                    }
+                ]
+            },
+            {
+                "code": "group8",
+                "name": "Group 8",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission8",
+                        "name": "Permission 8"
+                    }
+                ]
+            },
+            {
+                "code": "group9",
+                "name": "Group 9",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission9",
+                        "name": "Permission 9"
+                    }
+                ]
+            },
+            {
+                "code": "group10",
+                "name": "Group 10",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission10",
+                        "name": "Permission 10"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "email": "fborek@example.com",
+        "firstName": "Franti\u0161ek",
+        "lastName": "Borek",
+        "permissionGroups": [
+            {
+                "code": "group1",
+                "name": "Group 1",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission3",
+                        "name": "Permission 3"
+                    }
+                ]
+            },
+            {
+                "code": "group2",
+                "name": "Group 2",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission3",
+                        "name": "Permission 3"
+                    }
+                ]
+            },
+            {
+                "code": "group3",
+                "name": "Group 3",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission3",
+                        "name": "Permission 3"
+                    }
+                ]
+            },
+            {
+                "code": "group5",
+                "name": "Group 5",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission5",
+                        "name": "Permission 5"
+                    }
+                ]
+            },
+            {
+                "code": "group7",
+                "name": "Group 7",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission7",
+                        "name": "Permission 7"
+                    }
+                ]
+            },
+            {
+                "code": "group8",
+                "name": "Group 8",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission8",
+                        "name": "Permission 8"
+                    }
+                ]
+            },
+            {
+                "code": "group9",
+                "name": "Group 9",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission9",
+                        "name": "Permission 9"
+                    }
+                ]
+            },
+            {
+                "code": "group10",
+                "name": "Group 10",
+                "permissions": [
+                    {
+                        "code": "permission1",
+                        "name": "Permission 1"
+                    },
+                    {
+                        "code": "permission2",
+                        "name": "Permission 2"
+                    },
+                    {
+                        "code": "permission10",
+                        "name": "Permission 10"
+                    }
+                ]
+            }
+        ]
+    }
+]

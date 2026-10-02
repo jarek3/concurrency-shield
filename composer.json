@@ -1,0 +1,24 @@
+{
+    "name": "jarek3/concurrency-shield",
+    "description": "High-concurrency database optimization shield for PHP applications using SQLite WAL mode and efficient query structures.",
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=8.2",
+        "doctrine/dbal": "^3.9"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.5",
+        "phpstan/phpstan": "^1.12"
+    },
+    "autoload": {
+        "psr-4": {
+            "ConcurrencyShield\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ConcurrencyShield\\Tests\\": "tests/"
+        }
+    }
+}
